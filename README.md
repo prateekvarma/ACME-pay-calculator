@@ -1,5 +1,5 @@
 # Overview
-This exercise reads the file.txt file, extracts it's contents and calculates the pay of each employee based on the time and day of the week.
+This exercise reads the file.txt file, extracts it's contents and calculates the pay of each employee based on the time and day of the week. The code is written in JavaScript.
 
 ## Criteria to calculate the hourly amount
 ### Monday - Friday
