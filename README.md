@@ -37,6 +37,14 @@ Simply clone the repo in your local machine, and run:
 ```
 node index.js
 ```
+This should Output the following on the console:
+```
+The amount to pay RENE is: 215 USD
+The amount to pay ASTRID is: 85 USD
+The amount to pay PAT is: 325 USD
+The amount to pay JAMES is: 145 USD
+The amount to pay KIRK is: 350 USD
+```
 
 ## To run tests
 There are 7 tests including 1 test suite. The **package.json** file has been configured to install **Jest**, and to run the test script. Run the below command to install Jest as a dev dependency: 
